@@ -18,9 +18,11 @@ Installation:
 
 bash
 Copy code
+```
 git clone https://github.com/ravi1215/Mental_Health_Bert.git
 cd Mental_Health_Bert
 pip install -r requirements.txt
+```
 Training:
 
 Detailed instructions for training the model on your dataset are available in the repository's documentation. This includes data preprocessing steps, model configuration, and training scripts.
